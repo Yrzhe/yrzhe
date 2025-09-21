@@ -1,9 +1,9 @@
 ### Hi there 👋
-这里是愚人哲，欢迎你！
+这里是yrzhe，欢迎你！
 <br>
 我将会在这里储存一些网站的资源，主要内容请关注网站
 <br>
-[网址：yrzhe.love](yrzhe.love)
+[网址：yrzhe.top](yrzhe.top)
 <!--
 **Yrzhe/yrzhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
